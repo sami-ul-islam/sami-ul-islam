@@ -1,5 +1,3 @@
-# Sami Ul Islam
-
 ### DevOps Engineer · Platforms · GitOps · Observability · Cloud Security
 
 📍 Pakistan 🕐 PKT (UTC+5)
